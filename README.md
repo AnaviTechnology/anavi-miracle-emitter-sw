@@ -1,10 +1,18 @@
 # ANAVI Miracle Emitter Software/Firmware
 
-Open source Arduino sketch for the smart WiFi dev board [ANAVI Miracle Emitter](https://anavi.technology/) capable of controlling simultaneously 2 addressable LED strips and showing two different animations in the same time.
+**ANAVI Miracle Emitter** is a compact, open-source Wi-Fi and Bluetooth development board powered by the ESP32-C3 microcontroller running at 160 MHz with the open standard instruction set RISC-V architecture. It is designed to control an addressable 5V NeoPixel LED strip (WS2811, WS2812B, TM1809, etc.), which can be powered via the onboard USB Type-C port or externally.
 
 # User's Manual
 
 [ANAVI Miracle Emitter User's Manual](https://github.com/AnaviTechnology/anavi-docs)
+
+# Hardware
+
+[ANAVI Miracle Emitter KiCad Project](https://github.com/AnaviTechnology/anavi-miracle-emitter)
+
+# Where to Buy
+
+[Crowd Supply](https://www.crowdsupply.com/anavi-technology/anavi-miracle-emitter)
 
 # Dependencies
 
