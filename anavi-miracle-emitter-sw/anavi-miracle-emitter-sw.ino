@@ -361,7 +361,7 @@ void setup()
     //read configuration from FS json
     Serial.println("mounting FS...");
 
-    if (SPIFFS.begin())
+    if (SPIFFS.begin(true))
     {
         Serial.println("mounted file system");
         if (SPIFFS.exists("/config.json")) {
